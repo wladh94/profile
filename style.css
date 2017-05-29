@@ -1,0 +1,54 @@
+
+#profile {
+           width: 200px;
+           border-radius: 50%;
+
+
+}
+
+h1 {
+    font-family: 'Archivo Black', sans-serif;
+    color: F20000;
+    text-align: center;
+    font-size: 110px;
+
+}
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 40px;
+  text-align: left;
+  font-weight: 300;
+
+}
+
+h3 {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  font-weight: light;
+
+}
+
+h4 {
+  font-family: 'Archivo Black', sans-serif;
+  color: rgba(94.9, 0, 0, 0.5);
+  font-size: 35px;
+  text-align: center;
+  font-weight: light;
+
+}
+
+p { font-family: 'Merriweather', serif;
+    color: #3C54A1;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+body {
+       background-color: #EDEFF8;
+
+
+}
+
+
